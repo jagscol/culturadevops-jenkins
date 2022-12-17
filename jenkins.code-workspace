@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "terraform",
+			"path": "../terraform"
+		},
+		{
+			"name": "kubernetes",
+			"path": "../kubernetes"
+		},
+		{
+			"name": "jenkins",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
